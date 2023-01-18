@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mrhoodz
-- 👀 I’m interested in coding and designing
+- 👋 Hi, I’m **@mrhoodz**
+- 👀 I’m interested in coding, designing and _thinking_
 - 🌱 I’m currently learning how to solve business problems
 - 💞️ I’m looking to collaborate on a lot of projects that involve react js.
 - 📫 How to reach me on instagram @realwebsdigital
